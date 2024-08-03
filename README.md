@@ -71,7 +71,7 @@ LinHex 是一款强大的十六进制编辑器，专为开发者和安全研究�
 ## 赞助我们
 
 我们非常欢迎你的赞助，以支持我们的发展。如果你喜欢我们的项目，请通过以下方式赞助我们：
-PayPal: [PayPal](https://paypal.me/dazidian?country.x=C2&locale.x=zh_XC)
-WeChat Pay: ZiDianSun2007
-Alipay: sdsfttt1@outlook.com
+- PayPal: [PayPal](https://paypal.me/dazidian?country.x=C2&locale.x=zh_XC)
+- WeChat Pay: ZiDianSun2007
+- Alipay: sdsfttt1@outlook.com
 ![payment](https://github.com/user-attachments/assets/e6cb29ed-4624-4c5e-90ea-451b2dca0ea3)
